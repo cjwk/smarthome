@@ -1,0 +1,4 @@
+# smarthome
+SocketDemo、大华摄像头对接Demo
+这是一些简单的Demo，包含了ClientSocket、ServerSocket、UDP广播、建立一个AServerSocket的转发BServerSocket等
+还包含rest风格对接大华摄像头的Demo
